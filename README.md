@@ -80,3 +80,8 @@ macOS:
 ```
 
 Can Sync to GitHub or Microsoft
+
+## References
+- https://code.visualstudio.com/docs/editor/profiles
+- https://code.visualstudio.com/docs/editor/settings-sync
+  - https://code.visualstudio.com/docs/editor/settings-sync#_synced-machines
